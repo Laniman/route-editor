@@ -1,6 +1,6 @@
 # ! WORK IN PROGRESS !
 
-<img src="./preview.png" width="auto" height="300" />
+<img src="./preview.png" width="auto" />
 
 ## route-editor
 
