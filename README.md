@@ -1,5 +1,7 @@
 # ! WORK IN PROGRESS !
 
+<img src="./preview.png" width="auto" height="300" />
+
 ## route-editor
 
 > route-editor — a single-page application in which a user interactively creates a route on a map by specifying start, end, and intermediate points of travel. For each point of the route you can see its address.
